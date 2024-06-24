@@ -63,12 +63,19 @@ NexHire is an intelligent HR resume screening assistant that utilizes advanced n
 ## Project Structure
 
 NexHire/
+
 │
+
 ├── app.py # Entry point for the Streamlit application
+
 ├── constants.py # Constant values used in the project (not included in the repo, create your own)
+
 ├── requirements.txt # List of required Python packages
+
 ├── utils.py # Utility functions for PDF extraction, embeddings, and Pinecone operations
+
 ├── .env # Environment variables (not included in the repo, create your own)
+
 └── ...
 
 
