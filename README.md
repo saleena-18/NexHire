@@ -97,7 +97,7 @@ Includes utility functions for:
 
 ## Contributing
 
-We welcome contributions to NexHire! Please follow these steps to contribute:
+Contributions to NexHire are welcome! Please follow these steps to contribute:
 
 1. Fork the repository.
 2. Create a new branch with your feature or bugfix.
