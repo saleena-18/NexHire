@@ -1,0 +1,2 @@
+PINECONE_ENVIRONMENT="us-east-1-aws"
+PINECONE_INDEX="resume"
