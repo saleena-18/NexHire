@@ -11,7 +11,7 @@ NexHire is an intelligent HR resume screening assistant that utilizes advanced n
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features:
+## Features
 
 - Extracts text from PDF resumes.
 - Converts text to embeddings using `SentenceTransformer`.
