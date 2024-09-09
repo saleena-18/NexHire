@@ -23,7 +23,7 @@ NexHire is an intelligent HR resume screening assistant that utilizes advanced n
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/NexHire.git
+    git clone https://github.com/saleena-18/NexHire.git
     cd NexHire
     ```
 
